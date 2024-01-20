@@ -1,0 +1,29 @@
+model: 'conv3'
+data:
+    seq_length: 120
+    offset: 10
+    preprocess: ./data/preprocess_norm_w_jiye
+    rep: 6d
+    add_noise: true 
+skel:
+    bvh: './data/skel.bvh'
+train:
+    batch_size: 128
+    lr: 0.0001
+    beta1: 0.5
+    beta2: 0.9
+    loss_pos_weight: 1.3
+    loss_quat_weight: 1.0
+    loss_root_weight: 1.0
+    loss_contact_weight: 0.5
+    num_epoch: 250
+    weight_decay: 0.00001
+    lr_decay: 0.9993
+    pretrained: ''
+    lstm_hidden_dim: 1024
+    conv_channels: 256
+    conv_dropout: 0.25
+    save_frequency: 4
+test:
+    batch_size: 16
+    num_epoch: 1

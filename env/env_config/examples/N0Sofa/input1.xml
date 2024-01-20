@@ -1,0 +1,17 @@
+<Env name="env1">
+<Scene name="Scene1">
+    <Object name="prox_scene1" file="prox/N0Sofa.xml">
+        <ObjectPosition translation="0 1.03 0" linear="-1.57079 0 0"/>
+    </Object>
+</Scene>
+<Cue>
+    <ICList num="1">
+    <IC type="sit">
+        <Contact jointIdx="0" contactPos="0.0094557   0.52957 -0.949302" contactRootPos="0.0094557 -0.949302" contactRootDir="-0.957497 -0.288442" />
+        <Contact jointIdx="3" contactPos="-0.469573 0.0500013 -0.924737" />
+        <Contact jointIdx="7" contactPos="-0.342687 0.0499961  -1.37097" />
+    </IC>
+    </ICList>
+</Cue>
+<Initial pos="0.609045 0.925458" dir="-0.614208 -0.789144"/>
+</Env>

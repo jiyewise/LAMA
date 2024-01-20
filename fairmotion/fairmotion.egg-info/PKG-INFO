@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: fairmotion
+Version: 0.0.4
+Summary: fairmotion is FAIR's library for human motion research
+Home-page: https://github.com/facebookresearch/fairmotion
+Author: FAIR Pittsburgh
+Author-email: dgopinath@fb.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+
+UNKNOWN
+

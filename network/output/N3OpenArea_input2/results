@@ -1,0 +1,560 @@
+===============================================================
+2023-02-16 11:44:15
+Elapsed time : 30.15s
+Num iter : 1
+total episode count : 349
+total transition count : 31014
+total transition per episodes : 88.87
+episode count : 349
+transition count : 31014
+transition per episodes : 88.87
+rewards per episodes : 36.79
+max episode length : 272.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:44:46
+Elapsed time : 61.29s
+Num iter : 2
+total episode count : 690
+total transition count : 62313
+total transition per episodes : 90.31
+episode count : 341
+transition count : 31299
+transition per episodes : 91.79
+rewards per episodes : 39.91
+max episode length : 308.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:45:17
+Elapsed time : 92.21s
+Num iter : 3
+total episode count : 1022
+total transition count : 93570
+total transition per episodes : 91.56
+episode count : 332
+transition count : 31257
+transition per episodes : 94.15
+rewards per episodes : 40.47
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:45:47
+Elapsed time : 123.09s
+Num iter : 4
+total episode count : 1363
+total transition count : 124509
+total transition per episodes : 91.35
+episode count : 341
+transition count : 30939
+transition per episodes : 90.73
+rewards per episodes : 40.81
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:46:18
+Elapsed time : 153.79s
+Num iter : 5
+total episode count : 1706
+total transition count : 155252
+total transition per episodes : 91.00
+episode count : 343
+transition count : 30743
+transition per episodes : 89.63
+rewards per episodes : 39.90
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:46:49
+Elapsed time : 184.84s
+Num iter : 6
+total episode count : 2039
+total transition count : 186080
+total transition per episodes : 91.26
+episode count : 333
+transition count : 30828
+transition per episodes : 92.58
+rewards per episodes : 43.39
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:47:21
+Elapsed time : 217.08s
+Num iter : 7
+total episode count : 2383
+total transition count : 217415
+total transition per episodes : 91.24
+episode count : 344
+transition count : 31335
+transition per episodes : 91.09
+rewards per episodes : 43.67
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:47:53
+Elapsed time : 248.79s
+Num iter : 8
+total episode count : 2722
+total transition count : 248485
+total transition per episodes : 91.29
+episode count : 339
+transition count : 31070
+transition per episodes : 91.65
+rewards per episodes : 45.09
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:48:26
+Elapsed time : 281.31s
+Num iter : 9
+total episode count : 3065
+total transition count : 280079
+total transition per episodes : 91.38
+episode count : 343
+transition count : 31594
+transition per episodes : 92.11
+rewards per episodes : 46.24
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:48:58
+Elapsed time : 313.43s
+Num iter : 10
+total episode count : 3399
+total transition count : 311083
+total transition per episodes : 91.52
+episode count : 334
+transition count : 31004
+transition per episodes : 92.83
+rewards per episodes : 49.54
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:49:30
+Elapsed time : 345.79s
+Num iter : 11
+total episode count : 3724
+total transition count : 341910
+total transition per episodes : 91.81
+episode count : 325
+transition count : 30827
+transition per episodes : 94.85
+rewards per episodes : 49.25
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:50:02
+Elapsed time : 378.09s
+Num iter : 12
+total episode count : 4049
+total transition count : 372840
+total transition per episodes : 92.08
+episode count : 325
+transition count : 30930
+transition per episodes : 95.17
+rewards per episodes : 51.12
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:50:36
+Elapsed time : 411.79s
+Num iter : 13
+total episode count : 4370
+total transition count : 404205
+total transition per episodes : 92.50
+episode count : 321
+transition count : 31365
+transition per episodes : 97.71
+rewards per episodes : 53.53
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:51:09
+Elapsed time : 444.37s
+Num iter : 14
+total episode count : 4688
+total transition count : 435095
+total transition per episodes : 92.81
+episode count : 318
+transition count : 30890
+transition per episodes : 97.14
+rewards per episodes : 53.84
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:51:42
+Elapsed time : 477.34s
+Num iter : 15
+total episode count : 5009
+total transition count : 466132
+total transition per episodes : 93.06
+episode count : 321
+transition count : 31037
+transition per episodes : 96.69
+rewards per episodes : 54.93
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:52:15
+Elapsed time : 510.37s
+Num iter : 16
+total episode count : 5332
+total transition count : 496999
+total transition per episodes : 93.21
+episode count : 323
+transition count : 30867
+transition per episodes : 95.56
+rewards per episodes : 55.20
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:52:48
+Elapsed time : 543.57s
+Num iter : 17
+total episode count : 5653
+total transition count : 528052
+total transition per episodes : 93.41
+episode count : 321
+transition count : 31053
+transition per episodes : 96.74
+rewards per episodes : 58.17
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:53:21
+Elapsed time : 576.76s
+Num iter : 18
+total episode count : 5973
+total transition count : 559339
+total transition per episodes : 93.64
+episode count : 320
+transition count : 31287
+transition per episodes : 97.77
+rewards per episodes : 60.83
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:53:54
+Elapsed time : 609.92s
+Num iter : 19
+total episode count : 6284
+total transition count : 590389
+total transition per episodes : 93.95
+episode count : 311
+transition count : 31050
+transition per episodes : 99.84
+rewards per episodes : 61.68
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:54:28
+Elapsed time : 643.25s
+Num iter : 20
+total episode count : 6591
+total transition count : 621504
+total transition per episodes : 94.30
+episode count : 307
+transition count : 31115
+transition per episodes : 101.35
+rewards per episodes : 64.24
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:55:00
+Elapsed time : 675.69s
+Num iter : 21
+total episode count : 6896
+total transition count : 652251
+total transition per episodes : 94.58
+episode count : 305
+transition count : 30747
+transition per episodes : 100.81
+rewards per episodes : 64.31
+max episode length : 316.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:55:34
+Elapsed time : 709.61s
+Num iter : 22
+total episode count : 7189
+total transition count : 683275
+total transition per episodes : 95.04
+episode count : 293
+transition count : 31024
+transition per episodes : 105.88
+rewards per episodes : 67.79
+max episode length : 321.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:56:08
+Elapsed time : 743.32s
+Num iter : 23
+total episode count : 7493
+total transition count : 714482
+total transition per episodes : 95.35
+episode count : 304
+transition count : 31207
+transition per episodes : 102.65
+rewards per episodes : 69.23
+max episode length : 321.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:56:41
+Elapsed time : 776.80s
+Num iter : 24
+total episode count : 7801
+total transition count : 745570
+total transition per episodes : 95.57
+episode count : 308
+transition count : 31088
+transition per episodes : 100.94
+rewards per episodes : 67.99
+max episode length : 321.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:57:15
+Elapsed time : 810.38s
+Num iter : 25
+total episode count : 8098
+total transition count : 776529
+total transition per episodes : 95.89
+episode count : 297
+transition count : 30959
+transition per episodes : 104.24
+rewards per episodes : 68.78
+max episode length : 321.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:57:48
+Elapsed time : 844.02s
+Num iter : 26
+total episode count : 8400
+total transition count : 807522
+total transition per episodes : 96.13
+episode count : 302
+transition count : 30993
+transition per episodes : 102.63
+rewards per episodes : 69.27
+max episode length : 321.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:58:22
+Elapsed time : 877.40s
+Num iter : 27
+total episode count : 8703
+total transition count : 838523
+total transition per episodes : 96.35
+episode count : 303
+transition count : 31001
+transition per episodes : 102.31
+rewards per episodes : 71.32
+max episode length : 321.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:58:55
+Elapsed time : 910.95s
+Num iter : 28
+total episode count : 8989
+total transition count : 869712
+total transition per episodes : 96.75
+episode count : 286
+transition count : 31189
+transition per episodes : 109.05
+rewards per episodes : 74.05
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 11:59:29
+Elapsed time : 945.12s
+Num iter : 29
+total episode count : 9285
+total transition count : 900884
+total transition per episodes : 97.03
+episode count : 296
+transition count : 31172
+transition per episodes : 105.31
+rewards per episodes : 71.03
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:00:03
+Elapsed time : 978.67s
+Num iter : 30
+total episode count : 9582
+total transition count : 931757
+total transition per episodes : 97.24
+episode count : 297
+transition count : 30873
+transition per episodes : 103.95
+rewards per episodes : 73.26
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:00:37
+Elapsed time : 1012.72s
+Num iter : 31
+total episode count : 9875
+total transition count : 962878
+total transition per episodes : 97.51
+episode count : 293
+transition count : 31121
+transition per episodes : 106.22
+rewards per episodes : 73.91
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:01:11
+Elapsed time : 1046.37s
+Num iter : 32
+total episode count : 10169
+total transition count : 993736
+total transition per episodes : 97.72
+episode count : 294
+transition count : 30858
+transition per episodes : 104.96
+rewards per episodes : 72.60
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:01:45
+Elapsed time : 1080.38s
+Num iter : 33
+total episode count : 10466
+total transition count : 1024778
+total transition per episodes : 97.91
+episode count : 297
+transition count : 31042
+transition per episodes : 104.52
+rewards per episodes : 74.98
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:02:19
+Elapsed time : 1114.28s
+Num iter : 34
+total episode count : 10756
+total transition count : 1055857
+total transition per episodes : 98.16
+episode count : 290
+transition count : 31079
+transition per episodes : 107.17
+rewards per episodes : 76.60
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:02:53
+Elapsed time : 1148.63s
+Num iter : 35
+total episode count : 11049
+total transition count : 1087060
+total transition per episodes : 98.39
+episode count : 293
+transition count : 31203
+transition per episodes : 106.49
+rewards per episodes : 76.22
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:03:27
+Elapsed time : 1182.30s
+Num iter : 36
+total episode count : 11343
+total transition count : 1118038
+total transition per episodes : 98.57
+episode count : 294
+transition count : 30978
+transition per episodes : 105.37
+rewards per episodes : 74.80
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:04:01
+Elapsed time : 1216.81s
+Num iter : 37
+total episode count : 11640
+total transition count : 1149263
+total transition per episodes : 98.73
+episode count : 297
+transition count : 31225
+transition per episodes : 105.13
+rewards per episodes : 74.73
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:04:35
+Elapsed time : 1250.74s
+Num iter : 38
+total episode count : 11938
+total transition count : 1180469
+total transition per episodes : 98.88
+episode count : 298
+transition count : 31206
+transition per episodes : 104.72
+rewards per episodes : 77.02
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:05:09
+Elapsed time : 1284.66s
+Num iter : 39
+total episode count : 12234
+total transition count : 1211631
+total transition per episodes : 99.04
+episode count : 296
+transition count : 31162
+transition per episodes : 105.28
+rewards per episodes : 75.02
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================
+===============================================================
+2023-02-16 12:05:43
+Elapsed time : 1318.64s
+Num iter : 40
+total episode count : 12524
+total transition count : 1242896
+total transition per episodes : 99.24
+episode count : 290
+transition count : 31265
+transition per episodes : 107.81
+rewards per episodes : 76.40
+max episode length : 682.0
+normalized time elapsed per transition : 1.00
+===============================================================

@@ -1,0 +1,17 @@
+<Env name="env1">
+<Scene name="Scene1">
+	<Object name="object0" file="prox/N3OpenArea.xml">
+		<ObjectPosition translation="   0 1.08    0" linear="-1.57079        0        0"/>
+	</Object>
+</Scene>
+<Initial pos="1.74049 1.77841" dir="-0.888419 -0.459033"/>
+<Cue>
+	<ICList num="1">
+	<IC type="sit">
+		<Contact jointIdx="0" contactPos ="   1.2964  0.535179 -0.705869" contactRootPos="   1.2964 -0.705869" contactRootDir="-0.156381  0.987697"/>
+		<Contact jointIdx="3" contactPos ="  1.43921 0.0500009 -0.135883"/>
+		<Contact jointIdx="7" contactPos =" 0.980214  0.049996 -0.201225"/>
+	</IC>
+	</ICList>
+</Cue>
+</Env>

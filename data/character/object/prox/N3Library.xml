@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skeleton name="Ground">
+	<Joint type="FreeJoint" name="Ground" parent_name="None" size="10000.0 1.0 10000.0" mass="10.0" shape="prox/N3Library.ply" >
+		<BodyPosition translation="0 0 0"></BodyPosition>
+		<JointPosition translation="0 0 0" linear="0 0 0"></JointPosition>
+	</Joint>
+</Skeleton>

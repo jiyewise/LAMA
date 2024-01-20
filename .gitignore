@@ -1,0 +1,13 @@
+/build/
+/c_env/
+/py_env/
+/autoencoder/data
+/network/backup/
+/network/output_bkup
+*.pyc
+*.a 
+__pycache__
+*.so
+*.ply
+*.bvh
+*.pkl

@@ -1,0 +1,17 @@
+<Env name="env1">
+<Scene name="Scene1">
+	<Object name="object0" file="prox/MPH1Library.xml">
+		<ObjectPosition translation="   0 0.36    0" linear="-1.57908    0.025        0"/>
+	</Object>
+</Scene>
+<Initial pos="-0.0896921    1.30531" dir="-0.859295 -0.511481"/>
+<Cue>
+	<ICList num="1">
+		<IC type="sit">
+			<Contact jointIdx="0" contactPos ="-0.108122  0.593206    -0.448" contactRootPos="-0.108122    -0.448" contactRootDir="0.733172 0.680043"/>
+			<Contact jointIdx="3" contactPos =" 0.350736 0.0778616 -0.310912"/>
+			<Contact jointIdx="7" contactPos ="    0.07341   0.0854154 0.000609545"/>
+		</IC>
+	</ICList>
+</Cue>
+</Env>

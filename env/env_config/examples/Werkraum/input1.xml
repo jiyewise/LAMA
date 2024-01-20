@@ -1,0 +1,17 @@
+<Env name="env1">
+<Scene name="Scene1">
+    <Object name="prox_scene1" file="prox/Werkraum.xml">
+        <ObjectPosition translation="0 0.67 0" linear="-1.57079 0 0"/>
+    </Object>
+</Scene>
+<Cue>
+    <ICList num="1">
+    <IC type="sit">
+        <Contact jointIdx="0" contactPos="-0.684388  0.506847   -1.4084" contactRootPos="-0.684388   -1.4084" contactRootDir="-0.545533  0.838089" />
+        <Contact jointIdx="3" contactPos="-0.762697 0.0499999 -0.883765" />
+        <Contact jointIdx="7" contactPos="-1.13545 0.0499997    -1.117" />
+    </IC>
+    </ICList>
+</Cue>
+<Initial pos="1.15476 -0.952694" dir="-0.850547  0.525899"/>
+</Env>

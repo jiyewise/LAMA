@@ -1,0 +1,13 @@
+ipython
+scipy
+numpy==1.23.1
+tensorflow==2.7.1
+matplotlib
+protobuf==3.19 
+tensorboardx
+pyyaml
+pillow
+tqdm
+trimesh
+rtree
+pyembree

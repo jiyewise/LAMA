@@ -1,0 +1,12 @@
+2023-02-16 11:43:44
+test_name : jN3OpenArea10
+num slaves : 4
+num states : 241
+num actions : 17
+learning rate : 0.0002
+gamma : 0.95
+lambd : 0.95
+batch size : 512
+steps per iteration : 6000
+clip ratio : 0.2
+pretrained : False

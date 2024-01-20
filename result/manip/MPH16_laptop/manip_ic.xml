@@ -1,0 +1,44 @@
+<ManipIC obj="laptop.xml" jointIdx="19" bnIdx="1" vertex="5" translation="-0.780001  0.543748   1.05321" linear="0 -2.1 0" initialPos="0 0 0 0 0 0 1.57080">
+    <ManipContact frame="7" objPos="0 0 0 0 0 0 1.57080" />
+    <ManipContact frame="8" objPos="0 0 0 0 0 0 1.37787" />
+    <ManipContact frame="9" objPos="0 0 0 0 0 0 1.25738" />
+    <ManipContact frame="10" objPos="0 0 0 0 0 0 1.15452" />
+    <ManipContact frame="11" objPos="0 0 0 0 0 0 1.06165" />
+    <ManipContact frame="12" objPos="0 0 0 0 0 0 0.97558" />
+    <ManipContact frame="13" objPos="0 0 0 0 0 0 0.89455" />
+    <ManipContact frame="14" objPos="0 0 0 0 0 0 0.81750" />
+    <ManipContact frame="15" objPos="0 0 0 0 0 0 0.74369" />
+    <ManipContact frame="16" objPos="0 0 0 0 0 0 0.67261" />
+    <ManipContact frame="17" objPos="0 0 0 0 0 0 0.60386" />
+    <ManipContact frame="18" objPos="0 0 0 0 0 0 0.53715" />
+    <ManipContact frame="19" objPos="0 0 0 0 0 0 0.47223" />
+    <ManipContact frame="20" objPos="0 0 0 0 0 0 0.40892" />
+    <ManipContact frame="21" objPos="0 0 0 0 0 0 0.34706" />
+    <ManipContact frame="22" objPos="0 0 0 0 0 0 0.28651" />
+    <ManipContact frame="23" objPos="0 0 0 0 0 0 0.22716" />
+    <ManipContact frame="24" objPos="0 0 0 0 0 0 0.16891" />
+    <ManipContact frame="25" objPos="0 0 0 0 0 0 0.11168" />
+    <ManipContact frame="26" objPos="0 0 0 0 0 0 0.05540" />
+    <ManipContact frame="27" objPos="0 0 0 0 0 0 0.02540" />
+    <ManipContact frame="28" objPos="0 0 0 0 0 0 0.00000" />
+    <ManipContact frame="29" objPos="0 0 0 0 0 0 0.19293" />
+    <ManipContact frame="30" objPos="0 0 0 0 0 0 0.31342" />
+    <ManipContact frame="31" objPos="0 0 0 0 0 0 0.41628" />
+    <ManipContact frame="32" objPos="0 0 0 0 0 0 0.50914" />
+    <ManipContact frame="33" objPos="0 0 0 0 0 0 0.59522" />
+    <ManipContact frame="34" objPos="0 0 0 0 0 0 0.67625" />
+    <ManipContact frame="35" objPos="0 0 0 0 0 0 0.75330" />
+    <ManipContact frame="36" objPos="0 0 0 0 0 0 0.82711" />
+    <ManipContact frame="37" objPos="0 0 0 0 0 0 0.89819" />
+    <ManipContact frame="38" objPos="0 0 0 0 0 0 0.96694" />
+    <ManipContact frame="39" objPos="0 0 0 0 0 0 1.03365" />
+    <ManipContact frame="40" objPos="0 0 0 0 0 0 1.09856" />
+    <ManipContact frame="41" objPos="0 0 0 0 0 0 1.16187" />
+    <ManipContact frame="42" objPos="0 0 0 0 0 0 1.22374" />
+    <ManipContact frame="43" objPos="0 0 0 0 0 0 1.28429" />
+    <ManipContact frame="44" objPos="0 0 0 0 0 0 1.34364" />
+    <ManipContact frame="45" objPos="0 0 0 0 0 0 1.40189" />
+    <ManipContact frame="46" objPos="0 0 0 0 0 0 1.45912" />
+    <ManipContact frame="47" objPos="0 0 0 0 0 0 1.51540" />
+</ManipIC>
+

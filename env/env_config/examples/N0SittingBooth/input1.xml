@@ -1,0 +1,17 @@
+<Env name="env1">
+<Scene name="Scene1">
+    <Object name="prox_scene1" file="prox/N0SittingBooth.xml">
+        <ObjectPosition translation="0 0.68 0" linear="-1.57908  0.025 0"/>
+    </Object>
+</Scene>
+<Cue>
+        <ICList num="1">
+        <IC type="sit">
+                <Contact jointIdx="0" contactPos ="0.196724 0.558209 0.223994" contactRootPos="0.196724 0.223994" contactRootDir="0.428629 0.903481"/>
+                <Contact jointIdx="3" contactPos ="    0.572 0.0428647  0.521502"/>
+                <Contact jointIdx="7" contactPos =" 0.198908 0.0504185  0.707936"/>
+        </IC>
+        </ICList>
+</Cue>
+<Initial pos="2.31342 0.992084" dir="-0.995164 0.0982256"/>
+</Env>
